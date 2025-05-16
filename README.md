@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Brian Gatundu
 - 👀 I’m interested in web development(full-stack) ...
-- 🌱 I’m currently learning golang 
 - 💞️  I’m open to collaboration on projects involving full-stack development, particularly utilizing Tailwind CSS, TypeScript, JavaScript, Next.js, and MongoDB...
 - 📫 How to reach me  Email:brianwgatundu@gmail.com
   
